@@ -1,2 +1,2 @@
- "bye"
-"welcome to  ______"
+bye
+welcome to  ______
